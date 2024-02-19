@@ -1,0 +1,10 @@
+/* styles.css */
+/* apply some basic styling to the box */
+.box{
+    width:250px;
+    height: 100px;
+    background-color:orangered;
+    border: 4px solid black;
+    /* add margin to the box */
+    MARGIN:10PX
+}
