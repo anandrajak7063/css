@@ -1,38 +1,13 @@
-body{
-    font-family: arial,sans-serif;
-    background: red;
-    color: #333;
-}
-header{
-    background-color: blue;
-    color: #fff;
-
-    padding:20px;
-    text-align: center;
-}
-nav{
-    background-color: #333;
-    padding: 10px;
-}
-nav ul{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-nav ul li a{
-    display:inline
-    margin-right:20px;
-}
-nav ul li a {
-    color:#fff;
-    text-decoration: none;
-}
-main{
+.container{
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+    width:100vw;
+    height: 100vh;
+    color:white;
     padding: 20px;
 }
-footer{
-    background-color: #242424;
-    color: #fff;
-    padding: 10px;
-    text-align:center;
+h1,p{
+    text-align: center;
+    color:whitesmoke;
 }
